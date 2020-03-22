@@ -31,5 +31,3 @@ script (which is what I've chosen).
 
 [eventlog]: https://gitlab.haskell.org/ghc/ghc/wikis/event-log
 [speedscope]: https://www.speedscope.app/
-
-https://gitlab.haskell.org/tweag/ghc/-/jobs/253665

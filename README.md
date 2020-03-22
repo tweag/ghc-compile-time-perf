@@ -19,8 +19,8 @@ $ make-graphs.sh
 ```
 
 To view the flamegraphs, go to the [Speedscope][speedscope] site and click
-“browse”. Locate the graphs in the `result` directory that should have
-appeared after the build.
+“browse”. Locate the graphs in the `tests` directory; they will be called
+`with-master.eventlog.json` and `with-linear.eventlog.json`.
 
 NOTE: the entire process could be just a `nix-build` but for that both GHCs
 would need to be compiled via `nix-build` as well. Since in development it
